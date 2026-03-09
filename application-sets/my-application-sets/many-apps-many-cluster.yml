@@ -26,4 +26,4 @@ spec:
         path: '{{path}}'
       destination:
         server: '{{server}}'
-        namespace: '{{path.basename}}'
+        namespace: default
